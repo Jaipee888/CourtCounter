@@ -48,7 +48,7 @@ public class MainActivity extends AppCompatActivity {
      * Reset Code for Reset button.
      */
 
-    public void Reset {
+    public void Reset(int score) {
         scoreTeamA = 0;
         scoreTeamB = 0;
     }
